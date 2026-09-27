@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# After publishing with your real domain, replace YOUR-DOMAIN with it:
-# Sitemap: https://YOUR-DOMAIN/sitemap.xml
+Sitemap: https://infinityinterior.online/sitemap.xml
